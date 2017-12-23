@@ -1,0 +1,23 @@
+{
+  "name": "orionx-notifier-worker",
+  "version": "1.0.0",
+  "description": "orionx.io cryptocurrencies market notifier",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalompp/orionx-notifier-worker.git"
+  },
+  "author": "Gonzalompp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalompp/orionx-notifier-worker/issues"
+  },
+  "homepage": "https://github.com/gonzalompp/orionx-notifier-worker#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
